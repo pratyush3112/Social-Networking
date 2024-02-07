@@ -1,0 +1,33 @@
+#blue-bar{
+    background-color: blue;
+    height: 50px;
+    color: white;
+}
+
+#search-box{
+    width: 440px;
+    height: 20px;
+    border: none;
+    border-radius: 5px;
+    padding: 4px;
+    font-size: 14px;
+    background-image: url(search.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    margin-top: 11px;
+
+}
+
+#profile{
+    margin-top: -254px;
+    border-radius: 50%;
+    border: solid 2px white;
+    width: 265px;
+    
+}
+
+#menu-btn{
+    display: inline-block;
+    margin: 2px;
+    width: 100px;
+}
